@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Protest+Guerrilla&display=swap');
+
+.font_styling2{
+        font-family: "Dancing Script", cursive;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+      
+}
+
+.font_styling1{
+    font-family: "Protest Guerrilla", sans-serif;
+   font-weight: 400;
+  font-style: normal;
+}
+
+.bg{
+    background-color: #405D72;
+}
